@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ximin | Web3 Product Manager</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      background-color: #0d1117;
+      color: #e6edf3;
+      margin: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #161b22;
+      text-align: center;
+      padding: 60px 20px 40px 20px;
+    }
+    header h1 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      color: #9da5b4;
+      font-size: 1rem;
+    }
+    nav {
+      text-align: center;
+      background-color: #1f242c;
+      padding: 10px;
+    }
+    nav a {
+      color: #58a6ff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      border-bottom: 1px solid #30363d;
+      padding-bottom: 5px;
+      color: #58a6ff;
+    }
+    a {
+      color: #58a6ff;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #8b949e;
+      font-size: 0.9rem;
+      border-top: 1px solid #30363d;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>👋 Hi, I'm Ximin</h1>
+    <p>Web3 Product Manager | DeFi | Crypto UX | Growth Strategy</p >
+  </header>
+
+  <nav>
+    <a href=" ">About</a >
+    <a href="#projects">Projects</a >
+    <a href="#thinking">Thinking</a >
+    <a href="#contact">Contact</a >
+  </nav>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      I’m passionate about building user-centered crypto products that make Web3 more accessible.
+      My focus is on DeFi, user growth, and transparent incentive systems.
+    </p >
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <h3>🪙 DecentraSave — Decentralized Savings App (Concept)</h3>
+    <ul>
+      <li>Designed onboarding and savings flow for crypto users.</li>
+      <li>Built token-based referral & reputation system for sustainable growth.</li>
+    </ul>
+    <p>📘 <a href="#">View Figma Prototype</a ></p >
+
+    <h3>🔗 Lens Protocol Growth Analysis</h3>
+    <ul>
+      <li>Studied reputation & token incentives in decentralized social graphs.</li>
+      <li>Proposed hybrid proof-of-value model for engagement rewards.</li>
+    </ul>
+
+    <h3>⚙️ Tokenomics Playground</h3>
+    <ul>
+      <li>Designed fair community reward simulation model.</li>
+      <li>Integrated DAO proposal staking + anti-inflation token burn mechanism.</li>
+    </ul>
+  </section>
+
+  <section id="thinking">
+    <h2>Product Thinking</h2>
+    <blockquote>
+      “Good crypto products don’t just decentralize data — they decentralize trust.”
+    </blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      📧 <a href="mailto:ximin@email.com">ximin@email.com</a ><br>
+      💼 <a href="#">LinkedIn</a > 🧵 <a href="#">Twitter</a > 🌐 <a href="#">GitHub</a >
+    </p >
+    <p>Open to remote roles in EU time zone.</p >
+  </section>
+
+  <footer>
+    © 2025 Ximin | Built with ❤️ and GitHub Pages
+  </footer>
+</body>
+</html>
